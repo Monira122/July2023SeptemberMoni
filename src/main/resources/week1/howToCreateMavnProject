@@ -1,0 +1,14 @@
+create maven project--file-->new-->maven project-- create simple
+project -->put group id and artifact id -- click finish 
+
+how to update jave version?
+how do we find dependencies
+go to maven repo https://mvnrepository.com/:
+search selenium-java
+get the latest version search webDriverManager
+get the latest version 
+search TestNG
+get the latest version 
+do a mavn update 
+create a java class in src?main/java to make sure java is working 
+create a java class in src?main/java to make sure java is working 
